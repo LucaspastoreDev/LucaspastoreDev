@@ -1,7 +1,7 @@
 ## Olá! eu sou o Lucas Pastore Dev👋
 
-- 🔭 Hoje trabalho com experiência do cliente (BackOffice)
-- 🌱 Estudando Python, SQL, NoSQL
+- 🔭 Hoje trabalho com o engenheiro de dados
+- 🌱 Estudando Python, banco de dados, SQL, pandas
 - 😄 Ele/Dele
 # 📄 Invoice Processing Agent
 
